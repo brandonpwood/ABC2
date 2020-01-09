@@ -16,7 +16,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Sources
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -38,109 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ABC2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YYXHUAST
-
-[Document2]
-DocumentPath=samd51.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
-DocumentPath=samd51.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LOWIYKVP
-
-[Document4]
-DocumentPath=..\..\Libraries\Components\SAMD21\SAMD21.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=..\..\Libraries\Components\SAMD21\SAMD21.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VBLCPNIF
-
-[Document6]
-DocumentPath=ADXRS450\ADXRS450.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=ADXRS450\ADXRS450.SchLib
+DocumentPath=ADXRS450.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -156,8 +54,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMAJVHTP
 
-[Document8]
-DocumentPath=ADXL357\ADXL357.PcbLib
+[Document2]
+DocumentPath=ADXRS450.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,174 +69,18 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DPMPHDHK
-
-[Document9]
-DocumentPath=ADXL357\ADXL357.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FHOIRNLG
-
-[Document10]
-DocumentPath=ABC2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YHSQQTDK
-
-[Document11]
-DocumentPath=airbrakeController_SENSORS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BGFJYYWX
-
-[Configuration1]
-Name=Sources
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-Variant=[No Variations]
-OutputJobsCount=0
-ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
+DocumentUniqueId=ETVYJKJU
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
 TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CadnetixNetlist
-OutputName1=Cadnetix Netlist
+OutputType1=PCADNetlist
+OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=CalayNetlist
-OutputName2=Calay Netlist
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=EDIF
-OutputName3=EDIF for PCB
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-OutputType4=EESofNetlist
-OutputName4=EESof Netlist
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-OutputType5=IntergraphNetlist
-OutputName5=Intergraph Netlist
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-OutputType6=MentorBoardStationNetlist
-OutputName6=Mentor BoardStation Netlist
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-OutputType7=MultiWire
-OutputName7=MultiWire
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=OrCadPCB2Netlist
-OutputName8=Orcad/PCB2 Netlist
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=PADSNetlist
-OutputName9=PADS ASCII Netlist
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=Pcad
-OutputName10=Pcad for PCB
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=PCADNetlist
-OutputName11=PCAD Netlist
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=PCADnltNetlist
-OutputName12=PCADnlt Netlist
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Protel2Netlist
-OutputName13=Protel2 Netlist
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=ProtelNetlist
-OutputName14=Protel
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=RacalNetlist
-OutputName15=Racal Netlist
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=RINFNetlist
-OutputName16=RINF Netlist
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SciCardsNetlist
-OutputName17=SciCards Netlist
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=TangoNetlist
-OutputName18=Tango Netlist
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=TelesisNetlist
-OutputName19=Telesis Netlist
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=WireListNetlist
-OutputName20=WireList Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -375,30 +117,36 @@ OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=PCBLIB Print
-OutputName5=PCBLIB Prints
+OutputType5=PCBDrawing
+OutputName5=Draftsman
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType6=Report Print
-OutputName6=Report Prints
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType7=Schematic Print
-OutputName7=Schematic Prints
+OutputType7=Report Print
+OutputName7=Report Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=SimView Print
-OutputName8=SimView Prints
+OutputType8=Schematic Print
+OutputName8=Schematic Prints
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=SimView Print
+OutputName9=SimView Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -461,33 +209,38 @@ OutputName6=Gerber X2 Files
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=Mask
-OutputName7=Solder/Paste Mask Prints
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=NC Drill
-OutputName8=NC Drill Files
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=ODB
-OutputName9=ODB++ Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=NC Drill
+OutputName9=NC Drill Files
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
-OutputType10=Plane
-OutputName10=Power-Plane Prints
+OutputType10=ODB
+OutputName10=ODB++ Files
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=Test Points
-OutputName11=Test Point Report
+OutputType11=Plane
+OutputName11=Power-Plane Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
@@ -765,51 +518,21 @@ OutputName2=AutoCAD dwg/dxf File Schematic
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=ExportIDF
-OutputName3=Export IDF
+OutputType3=Save As/Export PCB
+OutputName3=Save As/Export PCB
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=ExportPARASOLID
-OutputName4=Export PARASOLID
+OutputType4=Save As/Export Schematic
+OutputName4=Save As/Export Schematic
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-OutputType5=ExportSTEP
-OutputName5=Export STEP
+OutputType5=Specctra Design PCB
+OutputName5=Specctra Design PCB
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=ExportVRML
-OutputName6=Export VRML
-OutputDocumentPath6=
-OutputVariantName6=[No Variations]
-OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1196,7 +919,7 @@ UpdateVariants=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0

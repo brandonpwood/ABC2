@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Added Component: Designator=U8(LCCS127P605X560X220-14N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(LCC127P900X400X915-14N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(SOIC127P1040X373-16N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(LCC127P900X400X915-14N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(LCCS127P605X560X220-14N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOIC127P1040X373-16N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetU8_1 Pin=U8-1
+Added Pin To Net: NetName=NetU8_2 Pin=U8-2
+Added Pin To Net: NetName=NetU8_3 Pin=U8-3
+Added Pin To Net: NetName=NetU8_4 Pin=U8-4
+Added Pin To Net: NetName=NetC60_1 Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=NetC62_1 Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=NetC65_1 Pin=U8-10
+Added Pin To Net: NetName=3.3S Pin=U8-11
+Added Pin To Net: NetName=NetU8_12 Pin=U8-12
+Added Pin To Net: NetName=NetU8_13 Pin=U8-13
+Added Pin To Net: NetName=NetU8_14 Pin=U8-14
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=NetC58_1 Pin=U9-2
+Added Pin To Net: NetName=NetU9_3 Pin=U9-3
+Added Pin To Net: NetName=NetC59_1 Pin=U9-4
+Added Pin To Net: NetName=NetU9_5 Pin=U9-5
+Added Pin To Net: NetName=NetC64_1 Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=NetD6_2 Pin=U9-9
+Added Pin To Net: NetName=NetU9_10 Pin=U9-10
+Added Pin To Net: NetName=GND Pin=U9-11
+Added Pin To Net: NetName=NetU9_12 Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U9-13
+Added Pin To Net: NetName=3.3S Pin=U9-14
+Added Pin To Net: NetName=NetC70_1 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=NetU10_4 Pin=U10-4
+Added Pin To Net: NetName=NetU9_3 Pin=U10-5
+Added Pin To Net: NetName=3.3S Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=NetD7_2 Pin=U10-8
+Added Pin To Net: NetName=NetC71_1 Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-10
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=GND Pin=U10-13
+Added Pin To Net: NetName=NetC69_1 Pin=U10-14
+Added Pin To Net: NetName=NetU9_12 Pin=U10-15
+Added Pin To Net: NetName=NetU9_5 Pin=U10-16
+Added Pin To Net: NetName=ACCLK Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=ACMISO Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=ACMOSI Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GYSMISO2 Pin=U?-3
+Added Pin To Net: NetName=ACCS Pin=U?-4
+Added Pin To Net: NetName=GYSCLK2 Pin=U?-5
+Added Pin To Net: NetName=GYSMISO2 Pin=U?-5
+Added Pin To Net: NetName=3.3S Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=NetD?_2 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GYSCS2 Pin=U?-10
+Added Pin To Net: NetName=NetC?_1 Pin=U?-10
+Added Pin To Net: NetName=3.3S Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=ACINT1 Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GYSMOSI2 Pin=U?-12
+Added Pin To Net: NetName=ACSINT2 Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=3.3S Pin=U?-14
+Added Pin To Net: NetName=ACSDRDY Pin=U?-14
+Added Pin To Net: NetName=GYSMOSI2 Pin=U?-15
+Added Pin To Net: NetName=GYSCLK2 Pin=U?-16
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component C? CC0805KRX7R9BB104
+Added Member To Class: ClassName=ABC2 Member=Component D? BAT54HT1G
+Added Member To Class: ClassName=ABC2 Member=Component L? 74477725
+Added Member To Class: ClassName=airbrakeController_SENSORS Member=Component U8 ADXL357
+Added Member To Class: ClassName=airbrakeController_SENSORS Member=Component U9 ADXRS450V
+Added Member To Class: ClassName=airbrakeController_SENSORS Member=Component U10 ADXRS450
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXRS450V
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXL357
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXRS450

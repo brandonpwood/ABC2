@@ -1,0 +1,183 @@
+Change Component Designator: OldDesignator=*2 NewDesignator=*?
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=C8 NewDesignator=C?
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C12 NewDesignator=C?
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Change Component Designator: OldDesignator=C14 NewDesignator=C?
+Change Component Designator: OldDesignator=C15 NewDesignator=C?
+Change Component Designator: OldDesignator=C16 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=C20 NewDesignator=C?
+Change Component Designator: OldDesignator=C21 NewDesignator=C?
+Change Component Designator: OldDesignator=C22 NewDesignator=C?
+Change Component Designator: OldDesignator=C23 NewDesignator=C?
+Change Component Designator: OldDesignator=C24 NewDesignator=C?
+Change Component Designator: OldDesignator=C25 NewDesignator=C?
+Change Component Designator: OldDesignator=C26 NewDesignator=C?
+Change Component Designator: OldDesignator=C27 NewDesignator=C?
+Change Component Designator: OldDesignator=C28 NewDesignator=C?
+Change Component Designator: OldDesignator=C29 NewDesignator=C?
+Change Component Designator: OldDesignator=C30 NewDesignator=C?
+Change Component Designator: OldDesignator=C31 NewDesignator=C?
+Change Component Designator: OldDesignator=C32 NewDesignator=C?
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Component Designator: OldDesignator=L2 NewDesignator=L?
+Change Component Designator: OldDesignator=L3 NewDesignator=L?
+Change Component Designator: OldDesignator=L4 NewDesignator=L?
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=P2 NewDesignator=P?
+Change Component Designator: OldDesignator=P3 NewDesignator=P?
+Change Component Designator: OldDesignator=P4 NewDesignator=P?
+Change Component Designator: OldDesignator=P5 NewDesignator=P?
+Change Component Designator: OldDesignator=P6 NewDesignator=P?
+Change Component Designator: OldDesignator=P7 NewDesignator=P?
+Change Component Designator: OldDesignator=P8 NewDesignator=P?
+Change Component Designator: OldDesignator=SD1 NewDesignator=SD?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Added Component: Designator=*?(ATSAMD51P20A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ATSAMD51P20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.microchip.com/wwwproducts/en/ATSAMD51P20A#additional-features"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SD0 Pin=*?-2
+Added Pin To Net: NetName=SD1 Pin=*?-3
+Added Pin To Net: NetName=GND Pin=*?-5
+Added Pin To Net: NetName=3.3S Pin=*?-6
+Added Pin To Net: NetName=3.3S Pin=*?-14
+Added Pin To Net: NetName=GND Pin=*?-15
+Added Pin To Net: NetName=GND Pin=*?-25
+Added Pin To Net: NetName=3.3S Pin=*?-26
+Added Pin To Net: NetName=SD2 Pin=*?-27
+Added Pin To Net: NetName=SD3 Pin=*?-28
+Added Pin To Net: NetName=SD4 Pin=*?-29
+Added Pin To Net: NetName=SDCLK Pin=*?-30
+Added Pin To Net: NetName=GND Pin=*?-31
+Added Pin To Net: NetName=3.3UP Pin=*?-32
+Added Pin To Net: NetName=SAMCLK Pin=*?-33
+Added Pin To Net: NetName=SAMMOSI Pin=*?-34
+Added Pin To Net: NetName=SAMMISO Pin=*?-35
+Added Pin To Net: NetName=SAMCS Pin=*?-36
+Added Pin To Net: NetName=3.3UP Pin=*?-37
+Added Pin To Net: NetName=GND Pin=*?-38
+Added Pin To Net: NetName=ACCLK Pin=*?-39
+Added Pin To Net: NetName=ACMISO Pin=*?-40
+Added Pin To Net: NetName=ACMOSI Pin=*?-41
+Added Pin To Net: NetName=ACCS Pin=*?-42
+Added Pin To Net: NetName=GYSCLK1 Pin=*?-43
+Added Pin To Net: NetName=GYSCS1 Pin=*?-44
+Added Pin To Net: NetName=GND Pin=*?-45
+Added Pin To Net: NetName=3.3UP Pin=*?-46
+Added Pin To Net: NetName=GYSMOSI1 Pin=*?-47
+Added Pin To Net: NetName=GYSMISO1 Pin=*?-48
+Added Pin To Net: NetName=GYSMOSI2 Pin=*?-49
+Added Pin To Net: NetName=GYSMISO2 Pin=*?-50
+Added Pin To Net: NetName=GYSCLK2 Pin=*?-51
+Added Pin To Net: NetName=GYSCS2 Pin=*?-52
+Added Pin To Net: NetName=GND Pin=*?-53
+Added Pin To Net: NetName=3.3UP Pin=*?-54
+Added Pin To Net: NetName=TEMPCS Pin=*?-55
+Added Pin To Net: NetName=TEMPMISO Pin=*?-56
+Added Pin To Net: NetName=TEMPCLK Pin=*?-57
+Added Pin To Net: NetName=GND Pin=*?-64
+Added Pin To Net: NetName=3.3UP Pin=*?-65
+Added Pin To Net: NetName=GND Pin=*?-78
+Added Pin To Net: NetName=3.3UP Pin=*?-79
+Added Pin To Net: NetName=GND Pin=*?-90
+Added Pin To Net: NetName=3.3UP Pin=*?-91
+Added Pin To Net: NetName=GND Pin=*?-96
+Added Pin To Net: NetName=3.3UP Pin=*?-97
+Added Pin To Net: NetName=GND Pin=*?-106
+Added Pin To Net: NetName=3.3UP Pin=*?-107
+Added Pin To Net: NetName=REST51 Pin=*?-114
+Added Pin To Net: NetName=GND Pin=*?-116
+Added Pin To Net: NetName=3.3UP Pin=*?-118
+Added Pin To Net: NetName=SWCLK51 Pin=*?-119
+Added Pin To Net: NetName=SWDIO51 Pin=*?-120
+Added Pin To Net: NetName=ACCS Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=ACCLK Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=ACMOSI Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GYSMISO1 Pin=U?-3
+Added Pin To Net: NetName=ACMISO Pin=U?-4
+Added Pin To Net: NetName=GYSCS2 Pin=U?-4
+Added Pin To Net: NetName=3.3S Pin=U?-5
+Added Pin To Net: NetName=GYSCLK1 Pin=U?-5
+Added Pin To Net: NetName=GYSMISO2 Pin=U?-5
+Change Net Name : Old Net Name=Net*2_2 New Net Name=Net*?_2
+Change Net Name : Old Net Name=Net*2_3 New Net Name=Net*?_3
+Change Net Name : Old Net Name=Net*2_4 New Net Name=Net*?_4
+Change Net Name : Old Net Name=Net*2_5 New Net Name=Net*?_5
+Change Net Name : Old Net Name=Net*2_6 New Net Name=Net*?_6
+Change Net Name : Old Net Name=Net*2_7 New Net Name=Net*?_7
+Change Net Name : Old Net Name=Net*2_10 New Net Name=Net*?_10
+Change Net Name : Old Net Name=Net*2_11 New Net Name=Net*?_11
+Change Net Name : Old Net Name=Net*2_12 New Net Name=Net*?_12
+Change Net Name : Old Net Name=Net*2_13 New Net Name=Net*?_13
+Change Net Name : Old Net Name=Net*2_14 New Net Name=Net*?_14
+Change Net Name : Old Net Name=Net*2_15 New Net Name=Net*?_15
+Change Net Name : Old Net Name=Net*2_18 New Net Name=Net*?_18
+Change Net Name : Old Net Name=Net*2_20 New Net Name=Net*?_20
+Change Net Name : Old Net Name=Net*2_21 New Net Name=Net*?_21
+Change Net Name : Old Net Name=Net*2_22 New Net Name=Net*?_22
+Change Net Name : Old Net Name=Net*2_23 New Net Name=Net*?_23
+Change Net Name : Old Net Name=Net*2_24 New Net Name=Net*?_24
+Change Net Name : Old Net Name=Net*2_25 New Net Name=Net*?_25
+Change Net Name : Old Net Name=Net*2_27 New Net Name=Net*?_27
+Change Net Name : Old Net Name=Net*2_28 New Net Name=Net*?_28
+Change Net Name : Old Net Name=Net*2_29 New Net Name=Net*?_29
+Change Net Name : Old Net Name=Net*2_30 New Net Name=Net*?_30
+Change Net Name : Old Net Name=Net*2_31 New Net Name=Net*?_31
+Change Net Name : Old Net Name=Net*2_32 New Net Name=Net*?_32
+Change Net Name : Old Net Name=Net*2_33 New Net Name=Net*?_33
+Change Net Name : Old Net Name=Net*2_34 New Net Name=Net*?_34
+Change Net Name : Old Net Name=Net*2_37 New Net Name=Net*?_37
+Change Net Name : Old Net Name=Net*2_38 New Net Name=Net*?_38
+Change Net Name : Old Net Name=Net*2_39 New Net Name=Net*?_39
+Change Net Name : Old Net Name=Net*2_41 New Net Name=Net*?_41
+Change Net Name : Old Net Name=Net*2_42 New Net Name=Net*?_42
+Change Net Name : Old Net Name=Net*2_43 New Net Name=Net*?_43
+Change Net Name : Old Net Name=Net*2_44 New Net Name=Net*?_44
+Change Net Name : Old Net Name=Net*2_46 New Net Name=Net*?_46
+Change Net Name : Old Net Name=Net*2_47 New Net Name=Net*?_47
+Change Net Name : Old Net Name=Net*2_49 New Net Name=Net*?_49
+Change Net Name : Old Net Name=Net*2_52 New Net Name=Net*?_52
+Change Net Name : Old Net Name=Net*2_53 New Net Name=Net*?_53
+Change Net Name : Old Net Name=Net*2_54 New Net Name=Net*?_54
+Change Net Name : Old Net Name=Net*2_55 New Net Name=Net*?_55
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetL?_1
+Added Pin To Net: NetName=Net*?_115 Pin=*?-115
+Added Pin To Net: NetName=Net*?_115 Pin=C?-1
+Added Pin To Net: NetName=Net*?_115 Pin=L?-2
+Added Net: Name=Net*?_115
+Added Pin To Net: NetName=Net*?_117 Pin=*?-117
+Added Pin To Net: NetName=Net*?_117 Pin=L?-1
+Added Net: Name=Net*?_117
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=L?-1
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=ABC2 Member=Component *? ATSAMD51P20A
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXRS450V
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXRS450
+Added Member To Class: ClassName=ABC2 Member=Component U? ATSAMD21G18A-AU
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXL357
+Added Room: Name=ABC2

@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=L?-1
+Removed Pin From Net: NetName=GND Pin=U?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-2
+Removed Pin From Net: NetName=GYSMISO1 Pin=U?-3
+Removed Pin From Net: NetName=GYSCS2 Pin=U?-4
+Removed Pin From Net: NetName=GYSMISO2 Pin=U?-5
+Added Component: Designator=U?(ATML-TQFP48_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.atmel.com/images/atmel-42181-sam-d21_datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. N, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "48MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.atmel.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "48MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.62V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "48-Pin Thin Profile Plastic Quad Flat Package, Body 7 x 7 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=L?-1
+Added Pin To Net: NetName=ACCS Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=TEMPCS Pin=U?-1
+Added Pin To Net: NetName=ACCLK Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=ACMOSI Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GYSMISO1 Pin=U?-3
+Added Pin To Net: NetName=TEMPMISO Pin=U?-3
+Added Pin To Net: NetName=ACMISO Pin=U?-4
+Added Pin To Net: NetName=GYSCS2 Pin=U?-4
+Added Pin To Net: NetName=TEMPCLK Pin=U?-4
+Added Pin To Net: NetName=3.3S Pin=U?-5
+Added Pin To Net: NetName=3.3S Pin=U?-5
+Added Pin To Net: NetName=GYSCLK1 Pin=U?-5
+Added Pin To Net: NetName=GYSMISO2 Pin=U?-5
+Added Pin To Net: NetName=3.3S Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=NetD?_2 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetC?_2 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GYSCS1 Pin=U?-10
+Added Pin To Net: NetName=NetC?_1 Pin=U?-10
+Added Pin To Net: NetName=3.3S Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GYSMOSI1 Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=SAMCLK Pin=U?-13
+Added Pin To Net: NetName=3.3S Pin=U?-14
+Added Pin To Net: NetName=SAMMOSI Pin=U?-14
+Added Pin To Net: NetName=GYSMOSI2 Pin=U?-15
+Added Pin To Net: NetName=SAMMISO Pin=U?-15
+Added Pin To Net: NetName=GYSCLK2 Pin=U?-16
+Added Pin To Net: NetName=SAMCLK Pin=U?-16
+Added Pin To Net: NetName=WFCLK Pin=U?-19
+Added Pin To Net: NetName=WFMOSI Pin=U?-20
+Added Pin To Net: NetName=WFMISO Pin=U?-37
+Added Pin To Net: NetName=WFCS Pin=U?-38
+Added Pin To Net: NetName=REST21 Pin=U?-40
+Added Pin To Net: NetName=SDCLK21 Pin=U?-45
+Added Pin To Net: NetName=SWDIO21 Pin=U?-46
+Added Member To Class: ClassName=ABC2 Member=Component *? ATSAMD51P20A
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? .1uf
+Added Member To Class: ClassName=ABC2 Member=Component C? .1uf
+Added Member To Class: ClassName=ABC2 Member=Component C? .1uf
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? .1uf
+Added Member To Class: ClassName=ABC2 Member=Component C? .1uf
+Added Member To Class: ClassName=ABC2 Member=Component C? 10uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 10uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 10uF
+Added Member To Class: ClassName=ABC2 Member=Component C? .1uf
+Added Member To Class: ClassName=ABC2 Member=Component C? (16V 0.1uF)
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 1uF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component C? 100nF
+Added Member To Class: ClassName=ABC2 Member=Component D? >24V breakdown
+Added Member To Class: ClassName=ABC2 Member=Component L? 560uH, 50mA
+Added Member To Class: ClassName=ABC2 Member=Component L? 560uH, 50mA
+Added Member To Class: ClassName=ABC2 Member=Component L? 742792023
+Added Member To Class: ClassName=ABC2 Member=Component P? 61301021121
+Added Member To Class: ClassName=ABC2 Member=Component P? 61301021121
+Added Member To Class: ClassName=ABC2 Member=Component P? 53398-1071
+Added Member To Class: ClassName=ABC2 Member=Component P? 53398-1071
+Added Member To Class: ClassName=ABC2 Member=Component P? 53398-1071
+Added Member To Class: ClassName=ABC2 Member=Component P? 53261-0471
+Added Member To Class: ClassName=ABC2 Member=Component P? 53398-1071
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXRS450V
+Added Member To Class: ClassName=ABC2 Member=Component U? ATSAMD21G18A-AU
+Added Member To Class: ClassName=ABC2 Member=Component U? ADXL357
+Added Member To Class: ClassName=ABC2 Member=Component U? LM95071CIMF/NOPB
+Added Room: Name=ABC2
