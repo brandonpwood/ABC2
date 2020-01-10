@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SAMCLK Pin=U2-16
+Added Pin To Net: NetName=SAMCS Pin=U2-16
+Added Member To Class: ClassName=ABC2 Member=Component C25 C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component C27 C0805C105K3RACTU
+Added Member To Class: ClassName=ABC2 Member=Component L3 74477725
+Added Member To Class: ClassName=ABC2 Member=Component U4 ADXL357
+Added Room: Name=ABC2

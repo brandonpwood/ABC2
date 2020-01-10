@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ETVYJKJU
 
 [Document7]
 DocumentPath=ADXRS450\ADXRS450.SchLib
@@ -205,24 +205,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YHSQQTDK
+DocumentUniqueId=IFWUKHPO
 
-[Document11]
-DocumentPath=airbrakeController_SENSORS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ABC2\Design Rule Check - ABC2.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BGFJYYWX
 
 [Configuration1]
 Name=Sources

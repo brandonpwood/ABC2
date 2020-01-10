@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GYSMISO2 Pin=U5-5
+Removed Pin From Net: NetName=GYSCLK2 Pin=U5-16
+Added Pin To Net: NetName=GYSCS1 Pin=U5-4
+Added Pin To Net: NetName=GYSMISO1 Pin=U5-5
+Added Pin To Net: NetName=GYSCLK1 Pin=U5-16
+Added Room: Name=ABC2
